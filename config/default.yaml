@@ -1,6 +1,0 @@
-app:
-  name: "gdpr-erasure-lineage-tracer"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"

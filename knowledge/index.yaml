@@ -1,5 +1,0 @@
-domain_knowledge:
-  category: "legal"
-  agent: "gdpr-erasure-lineage-tracer"
-  ontology: "OpenGAP Core Ontology v1.0"
-  indexed_entities: 1024
