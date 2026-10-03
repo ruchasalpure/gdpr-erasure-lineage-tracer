@@ -1,0 +1,4 @@
+spec: nanobot/v1
+name: gdpr-erasure-lineage-tracer
+runtime: python3.11
+entrypoint: agent.py

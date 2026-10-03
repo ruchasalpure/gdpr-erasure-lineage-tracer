@@ -1,0 +1,8 @@
+{
+  "agent_id": "gdpr-erasure-lineage-tracer",
+  "protocol": "opencode/v1",
+  "capabilities": [
+    "autonomous",
+    "governed"
+  ]
+}
